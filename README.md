@@ -44,7 +44,7 @@ Before starting, ensure you have:
 
 ## 🌿 2. Clone the Repository
 ```bash
-git clone https://github.com/psagar-dev/git_assignment_HeroVired.git
+git clone (https://github.com/jas-nurturing-stage/git_assignment_Herovired.git)
 cd git_assignment_HeroVired
 ```
 
@@ -169,7 +169,7 @@ sudo apt install git-lfs && git lfs install  # (For Linux)
 ```
 ### 🌿 Step 2: Clone & Create a New Branch
 ```bash
-git clone https://github.com/psagar-dev/git_assignment_HeroVired.git
+git clone https://github.com/jas-nurturing-stage/git_assignment_Herovired.git
 cd git_assignment_HeroVired
 git checkout -b lfs
 ```
